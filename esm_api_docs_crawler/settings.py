@@ -10,7 +10,6 @@
 BOT_NAME = 'esm_api_docs_crawler'
 
 SPIDER_MODULES = ['esm_api_docs_crawler.spiders']
-NEWSPIDER_MODULE = 'esm_api_docs_crawler.spiders'
 
 COOKIES_ENABLED=False
 
